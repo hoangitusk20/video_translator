@@ -316,9 +316,9 @@ def get_srt_content(sequences):
 def get_translate(srt_path, output_path, video_describe):
 
 
-    API_KEY = ['AIzaSyC4wF1-hvExUZUaWnVa1XlL_PvYiy73P48', 'AIzaSyDbgoXt-k3ZyJhaIAJZR6Wcz1Jp88RhRe8','AIzaSyBPOv4Y6EtsuHg6DqvvTK7rKauutbT9xso', 'AIzaSyAzEQttlKZuMUVs1FsEXyuuvpbhpbVrfa8']
+    API_KEY = ['']
 
-    genai.configure(api_key='AIzaSyDbgoXt-k3ZyJhaIAJZR6Wcz1Jp88RhRe8')
+    genai.configure(api_key='')
 
     # Create the model
     generation_config = {
