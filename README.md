@@ -1,8 +1,7 @@
 
 # Video Translator
-
+Downloading entertainment videos from China, then adding Vietnamese subtitles, voiceovers, and re-uploading them to YouTube is a popular online money-making trend nowadays. The "Video Translator" app helps automate this process, saving a lot of time in content creation. Additionally, users can also use this app to learn and study foreign languages or knowledge without needing to know the foreign language. The app focuses on content creation from China and utilizes Chinese-based models (mainly trained on Chinese language datasets), so it works best with the Chinese language. However, the app has also been tested with other languages such as English, Korean, and Japanese, and works quite well.
 ## Overview
-
 **Video Translator** is a tool that automates the process of extracting subtitles from videos, translating them, and providing voiceovers in the desired language. The app is built with several powerful libraries to streamline the process:
 - **Faster-whisper**: Extracts subtitles from the video.
 - **Gemini-API**: Translates the subtitles to the target language.
