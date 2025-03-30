@@ -44,6 +44,8 @@ This version has been successfully tested on **Ubuntu 22.04** but hasn't been te
 If you don't have access to a GPU and prefer a cloud-based solution, you can run the optimized version of this app on **Google Colab** or **Kaggle**. Simply follow the instructions in the provided notebook link.
 
 - Google Colab: [Colab Link](https://colab.research.google.com/drive/1V5iFAJ0EI9hJ9KClNlYAvPhKDm745zjL?usp=sharing)
+- Kaggle (new): [Kaggle Link](https://www.kaggle.com/code/hoangus0303/d-ch-video-video-translate)
+Link on kaggle is newer version that can translate video hours long.
 ## Demo
 
 - **Before Translation**: [Video Link Before Translation](https://www.youtube.com/watch?v=S7jC1prfYF0)
